@@ -1,0 +1,51 @@
+body {
+
+    background-color: rgba(234, 205, 19, 0.744);
+    color: blue;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 100px;
+
+}
+
+
+h2 {
+
+    font-size: 50px;
+    text-align: center;
+
+}
+
+
+
+.cell {
+    border: 10px outset rgb(191, 18, 113);
+    background-color: rgb(177, 22, 120);
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 0;
+}
+
+
+.board {
+    padding-top: 20%;
+    margin: auto;
+}
+
+.modal button {
+
+    background-color: #e24e18;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border: 2px solid black;
+}
